@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#country {
+  width: 200px;
+  padding: 1%;
+}
+#state {
+  width: 200px;
+  padding: 1%;
+  margin: 0 1%;
+}
+#city {
+  width: 200px;
+  padding: 1%;
+  margin: 0 1%;
+}
